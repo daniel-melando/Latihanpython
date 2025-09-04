@@ -1,4 +1,4 @@
-# String
+# Stringgit 
 nama = 'Iqbal'
 # Int
 umur = 20
